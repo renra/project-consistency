@@ -3,6 +3,9 @@
 ## What is it?
 
 * Virtual machines running on abstractions from the actual hardware and OS
+* Needs a hypervisor
+* 2003 - [Xen](https://xenproject.org/) released
+* 2007 - [Kvm](https://www.linux-kvm.org/page/Main_Page) and [VirtualBox](https://www.virtualbox.org/) released
 
 ## Score
 
@@ -17,3 +20,6 @@ Not fast with VMWare, suffers from drift.
 ## References
 
 * https://www.vagrantup.com/
+* https://en.wikipedia.org/wiki/Timeline_of_virtualization_development
+* https://www.linux-kvm.org/page/Main_Page
+* https://www.virtualbox.org/

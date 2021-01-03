@@ -3,13 +3,9 @@
 ## What is it?
 
 * Containers running on the same hardware and OS as the host
-
 * Linux namespaces (process management, IP addresses, ...) and control groups (CPU and memory limits)
-
 * 1979 - with chroot
-
 * 2013 - DotCloud's [Docker](https://www.docker.com/)
-
 * 2014 - CoreOS's [rkt](https://coreos.com/rkt/)
 
 * > A container is basically a process with enough isolation of userspace components so that it gives a feeling of a separate operating system.
