@@ -6,3 +6,7 @@
 * Same developer experience across various environments
 * Same environment in development and production (and CI)
 * Project isolation
+
+## References
+
+* https://devopscube.com/what-is-docker/
