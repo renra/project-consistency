@@ -7,10 +7,12 @@
 ## Advantages
 
 * Everything happens without isolation, nix only manipulates the `PATH`
+* Very simple functionality
 
 ## Disadvantages
 
 * Installing older versions sucks
+* Lack of isolation may be a problem
 
 ## Score
 
