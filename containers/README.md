@@ -10,7 +10,7 @@
 
 * 2013 - DotCloud's [Docker](https://www.docker.com/)
 
-* 2014 - CoreOS's [Rocket](https://coreos.com/rkt/)
+* 2014 - CoreOS's [rkt](https://coreos.com/rkt/)
 
 * > A container is basically a process with enough isolation of userspace components so that it gives a feeling of a separate operating system.
 
