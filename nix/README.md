@@ -2,12 +2,16 @@
 
 ## What is it?
 
+* Functional and pure
 * Package manager installing dependencies into specific paths based on hashes
 
 ## Advantages
 
 * Everything happens without isolation, nix only manipulates the `PATH`
-* Very simple functionality
+* Very simple functionality - binaries are run natively
+* Package-level caching - no need to be aware of how the docker cache works (layer-level caching)
+* More reproducible builds
+* Atomic upgrades and rollbacks
 
 ## Disadvantages
 
@@ -25,3 +29,6 @@
 ## References
 
 * https://lazamar.co.uk/nix-versions/
+* https://nixos.org/
+* https://nixos.org/guides/nix-pills/
+* https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
