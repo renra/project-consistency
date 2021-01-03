@@ -9,7 +9,7 @@
 Not fast with VMWare, suffers from drift.
 
 * [x] Easy to setup for a new developer - with tools like [vagrant](https://www.vagrantup.com/)
-* [] Fast
+* [ ] Fast
 * [x] Same developer experience across various OSes
 * [x] Same environment in development and production (and CI)
 * [x] Project isolation
