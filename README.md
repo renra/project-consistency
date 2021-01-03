@@ -2,11 +2,8 @@
 
 ## Criteria
 
-* Ease of setup for a new developer - even on complex projects (orchestration)
-* Same developer experience across various environments
+* Easy to setup for a new developer - even on complex projects (orchestration)
+* Fast
+* Same developer experience across various OSes
 * Same environment in development and production (and CI)
 * Project isolation
-
-## References
-
-* https://devopscube.com/what-is-docker/
