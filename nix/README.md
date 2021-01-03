@@ -22,7 +22,7 @@
 
 * [x] Easy to setup for a new developer - [nix-shell](https://nixos.org/guides/nix-pills/developing-with-nix-shell.html)
 * [x] Fast
-* [x] Same developer experience across various environments - OSX and Linux is fine. Don't know about Windows.
+* [x] Same developer experience across various environments - OSX and Linux are covered natively, Windows with the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about)
 * [x] Same environment in development and production (and CI)
 * [ ] Project isolation
 * [x] Simplicity of functionality
@@ -34,3 +34,4 @@
 * https://nixos.org/
 * https://nixos.org/guides/nix-pills/
 * https://blog.container-solutions.com/step-towards-future-configuration-infrastructure-management-nix
+* https://nathan.gs/2019/04/12/nix-on-windows/
