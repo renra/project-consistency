@@ -16,7 +16,7 @@
 
 Deployment of pre-built containers helps reproducibility and avoids drift. Image layers can be shared.
 
-* [x] Ease of setup for a new developer - even on complex projects (orchestration) - piece of cake especially with [docker-compose](https://docs.docker.com/compose/)
+* [x] Easy to setup for a new developer - piece of cake with [docker-compose](https://docs.docker.com/compose/)
 * [x] Fast
 * [x] Same developer experience across various environments - OSX and Linux is fine. Don't know about Windows.
 * [x] Same environment in development and production (and CI) - there may be differences when using multiple dockerfiles or stages
