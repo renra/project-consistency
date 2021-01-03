@@ -6,7 +6,7 @@
 
 ## Score
 
-Not fast with VMWare, suffers from drift.
+Not fast with VirtualBox, suffers from drift.
 
 * [x] Easy to setup for a new developer - with tools like [vagrant](https://www.vagrantup.com/)
 * [ ] Fast
