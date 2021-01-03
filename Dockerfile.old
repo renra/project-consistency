@@ -1,0 +1,8 @@
+FROM rust:1.37-alpine
+
+ENV DIR /usr/src/app
+RUN mkdir -p ${DIR}
+WORKDIR ${DIR}
+
+COPY hello.rs hello.rs
+

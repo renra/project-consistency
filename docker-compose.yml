@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: sh -c "rustc hello.rs && ./hello"
+    volumes:
+      - ./:/usr/src/app/
