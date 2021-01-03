@@ -8,7 +8,7 @@
 
 Not fast with VirtualBox, suffers from drift.
 
-* [x] Easy to setup for a new developer - with tools like [vagrant](https://www.vagrantup.com/)
+* [x] Easy to setup for a new developer - with tools like [Vagrant](https://www.vagrantup.com/)
 * [ ] Fast
 * [x] Same developer experience across various OSes
 * [x] Same environment in development and production (and CI)
