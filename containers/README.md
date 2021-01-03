@@ -21,6 +21,8 @@ Deployment of pre-built containers helps reproducibility and avoids drift. Image
 * [x] Same developer experience across various environments - OSX and Linux is fine. Don't know about Windows.
 * [x] Same environment in development and production (and CI) - there may be differences when using multiple dockerfiles or stages
 * [x] Project isolation
+* [ ] Simplicity of functionality
+* [x] Simplicity of use
 
 
 

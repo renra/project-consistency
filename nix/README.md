@@ -25,6 +25,8 @@
 * [x] Same developer experience across various environments - OSX and Linux is fine. Don't know about Windows.
 * [x] Same environment in development and production (and CI)
 * [ ] Project isolation
+* [x] Simplicity of functionality
+* [ ] Simplicity of use
 
 ## References
 

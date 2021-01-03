@@ -16,6 +16,8 @@ Not fast with VirtualBox, suffers from drift.
 * [x] Same developer experience across various OSes
 * [x] Same environment in development and production (and CI)
 * [x] Project isolation
+* [ ] Simplicity of functionality
+* [x] Simplicity of use
 
 ## References
 
