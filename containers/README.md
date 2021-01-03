@@ -18,7 +18,7 @@ Deployment of pre-built containers helps reproducibility and avoids drift. Image
 
 * [x] Easy to setup for a new developer - piece of cake with [docker-compose](https://docs.docker.com/compose/)
 * [x] Fast
-* [x] Same developer experience across various environments - OSX, Linux and Windows.
+* [x] Same developer experience across various environments
 * [x] Same environment in development and production (and CI) - there may be differences when using multiple dockerfiles or stages
 * [x] Project isolation
 * [ ] Simplicity of functionality
